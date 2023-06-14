@@ -1,0 +1,182 @@
+body{
+    margin: 0;
+}
+
+.redbox{
+    width: 1355px;
+    height: 190px;
+    background-color: #E64B2F;
+}
+
+h1{
+    padding-top: 70px;
+    font-size: 40px;
+    color: #FFFFFF;
+}
+
+h2{
+    color: #000929;
+    margin-left: 90px;
+    
+}
+
+
+
+
+.div{
+    width: 220px;
+    height: 120px;
+    margin-left: 90px;
+    border-radius: 16px;  
+    display: inline-block;
+}
+
+#div1{
+    background-color: #284D57;
+    border: 2px solid #E5E6EB;
+}
+
+#div2{
+    background-color: #EEECE3;
+    margin-left: 25px;
+    border: 2px solid #E5E6EB;
+}
+
+#div3{
+    background-color: #FFF8F2;
+    margin-left: 25px;
+    border: 2px solid #E5E6EB;
+}
+
+#div4{
+    background-color: #FFFFFF;
+    margin-left: 25px;
+    border: 2px solid #E5E6EB;
+}
+
+.p1{
+    margin-top: -33px;
+    color: #9EA3AE;
+    font-size: 13px;
+}
+
+.p2{
+    margin-top: -33px;
+    color: #111204;
+    font-size: 13px;
+}
+
+.p3{
+    margin-top: -33px;
+    color: #1A1A1A;
+    font-size: 13px;
+}
+
+.p4{
+    margin-top: -33px;
+    color: #9EA3AE;
+    font-size: 13px;
+}
+
+
+
+
+.cl{
+    width: 197px;
+    height: 90px;
+    margin-left: 90px;  
+    display: inline-block;
+}
+
+#cl1{
+    background-color: #F9FAFB; 
+    border-top-left-radius: 16px;
+    border-bottom-left-radius: 16px;
+}
+
+#cl2{
+    background-color: #F4F4F6;
+    margin-left: -4px;
+    
+}
+
+#cl3{
+    background-color: #F4F4F6;
+    margin-left: -4px;
+    
+}
+
+#cl4{
+    background-color: #F4F4F6;
+    margin-left: -4px;   
+}
+
+#cl5{
+    background-color:  #F4F4F6;
+    margin-left: -4px;
+    border-top-right-radius: 16px;
+    border-bottom-right-radius: 16px;
+    
+}
+
+p{
+    margin-top: -33px;
+    color: #9EA3AE;
+    font-size: 13px;
+}
+
+
+
+
+.cb{
+    width: 197px;
+    height: 90px;
+    margin-left: 90px;  
+    display: inline-block;
+}
+
+#cb1{
+    background-color: #6C727F ; 
+    border-top-left-radius: 16px;
+    border-bottom-left-radius: 16px;
+}
+
+#cb2{
+    background-color: #4D5461;
+    margin-left: -4px;
+    
+}
+
+#cb3{
+    background-color: #394150;
+    margin-left: -4px;
+    
+}
+
+#cb4{
+    background-color: #212936;
+    margin-left: -4px;   
+}
+
+#cb5{
+    background-color:  #0B0A0F;
+    margin-left: -4px;
+    border-top-right-radius: 16px;
+    border-bottom-right-radius: 16px;
+    
+}
+
+p{
+    margin-top: -33px;
+    color: #9EA3AE;
+    font-size: 13px;
+}
+
+.marg{
+    margin-bottom: 15px;
+}
+
+
+
+
+
